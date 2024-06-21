@@ -10,10 +10,5 @@
         <module name="org.bitcoin.tfw.lbc.core" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="org.bitcoin.tfw.lbc" target="1.5" />
-      <module name="org.bitcoin.tfw.lbc.core" target="11" />
-      <module name="org.bitcoin.tfw.lbc.webapp" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
